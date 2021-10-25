@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+}
+.header {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  display: flex;
+}
+
+.logo {
+  margin-left: 10px;
+}
+
+.shopName {
+  margin-left: 10px;
+}
+.search {
+  margin-left: 70px;
+}
+.notion {
+  margin-left: 70px;
+}
+.nameSignIn {
+  margin-left: 150px;
+}
+.productImage {
+  width: 100%;
+}
+.productName {
+  margin-top: 16px;
+  margin-left: 16px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.description {
+  margin-top: 8px;
+  margin-left: 16px;
+  font-size: 14px;
+}
+.price-container {
+  margin-top: 8px;
+  margin-left: 16px;
+  display: flex;
+}
+.currency {
+  margin-left: 4px;
+}
+.price {
+  font-weight: 700;
+}
+.rating {
+  margin-top: 8px;
+  margin-bottom: 16px;
+  margin-left: 16px;
+}
+.productGrid {
+  padding: 16px;
+}
+.productCard {
+  background-color: white;
+  border: 1px solid gray;
+  margin-bottom: 16px;
+}
